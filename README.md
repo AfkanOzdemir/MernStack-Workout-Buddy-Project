@@ -1,7 +1,7 @@
 
 # WorkoutBuddy
 
-Bu projenin ne yaptığı ve kimin için olduğu hakkında kısa bir açıklama
+Bu proje yaptığınız spor programındaki hareketlerinizi kaydetmenizi sağlar.
 
 
 ## Ortam Değişkenleri
@@ -23,7 +23,7 @@ Projeyi klonlayın
 
 Proje dizinine gidin
 
-### Projeyi çalıştırın
+### Projeyi başlatın
 
 ```bash
   cd frontend & cd backend
