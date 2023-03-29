@@ -18,7 +18,7 @@ Bu projeyi çalıştırmak için aşağıdaki ortam değişkenlerini **backend/.
 Projeyi klonlayın
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AfkanOzdemir/MernStack-Workout-Buddy-Project.git
 ```
 
 Proje dizinine gidin
